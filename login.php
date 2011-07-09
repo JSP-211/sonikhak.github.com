@@ -6,10 +6,10 @@
 <body>
 <div class="menubar">
     <h1><img src="img/banner.png" alt="Sonikhak" /></h1>
-    <a href="index.html"><img src="img/house.png" alt="Home" />  Home</a>  |
+    <a href="index.php"><img src="img/house.png" alt="Home" />  Home</a>  |
     <a href="#">About Me</a>    |
     <a href="#">Projects</a>    |
-    <a class="selected" href="login.html"><img src="img/key_go.png" alt="client login"/>  Login</a>
+    <a class="selected" href="login.php"><img src="img/key_go.png" alt="client login"/>  Login</a>
 </div>
     <div id="content">
         <h2>Please Enter Your Login Details:</h2>
